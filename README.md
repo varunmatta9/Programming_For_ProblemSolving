@@ -3,8 +3,8 @@ My journey of learning PPS
 
 
 #To Run a Code:
-gcc -o <file_name> <file_name>.c
-./<file_name>
+gcc -o <file_name> <file_name>.c && ./<file_name>
+
 
 
 #To Save changes into repo
